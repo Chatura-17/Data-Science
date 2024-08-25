@@ -1,1 +1,3 @@
 # Data-Science
+Unemplyment Analysis:
+This project focuses on analyzing unemployment data through machine learning techniques. The goal is to uncover patterns, trends, and factors contributing to unemployment rates across different regions and demographics. The analysis includes data preprocessing, exploratory data analysis (EDA), and model building for predictive insights. Various machine learning algorithms are applied to predict unemployment rates and identify key factors affecting employment trends. This project is a step towards data-driven decision-making in understanding and addressing unemployment challenges.
